@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/MCreator-Examples/Mo-Tool-Tiers",
+  "1.20.6": {
+    "1.0.0": "ADDED:\n- Added weak tags for all material types.\n- Added normal tags for all material types.\n- Added strong tags for all material types.\n- Added materials for wood, stone, metal, gemstone, nether, end, and deep.\n"
+  },
+  "promos": {
+    "1.20.6-latest": "1.0.0",
+    "1.20.6-recommended": "1.0.0"
+  }
+}
