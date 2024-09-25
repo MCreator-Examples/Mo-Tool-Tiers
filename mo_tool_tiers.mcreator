@@ -1,0 +1,124 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:mod:normal_metal": [
+      "TAG:mod:strong_metal",
+      "Items.IRON_SWORD",
+      "Items.IRON_SHOVEL",
+      "Items.IRON_PICKAXE",
+      "Items.IRON_AXE",
+      "Items.IRON_HOE"
+    ],
+    "ITEMS:mod:normal_deep": [
+      "TAG:mod:strong_deep"
+    ],
+    "ITEMS:mod:normal_stone": [
+      "TAG:mod:strong_stone",
+      "Items.STONE_SWORD",
+      "Items.STONE_SHOVEL",
+      "Items.STONE_PICKAXE",
+      "Items.STONE_AXE",
+      "Items.STONE_HOE"
+    ],
+    "ITEMS:mod:strong_wood": [
+      "TAG:mod:weak_stone"
+    ],
+    "ITEMS:mod:strong_stone": [
+      "TAG:mod:weak_metal"
+    ],
+    "ITEMS:mod:normal_wood": [
+      "TAG:mod:strong_wood",
+      "Items.WOODEN_SWORD",
+      "Items.WOODEN_SHOVEL",
+      "Items.WOODEN_PICKAXE",
+      "Items.WOODEN_AXE",
+      "Items.WOODEN_HOE",
+      "Items.GOLDEN_SWORD",
+      "Items.GOLDEN_SHOVEL",
+      "Items.GOLDEN_PICKAXE",
+      "Items.GOLDEN_AXE",
+      "Items.GOLDEN_HOE"
+    ],
+    "ITEMS:mod:weak_nether": [
+      "TAG:mod:normal_nether"
+    ],
+    "ITEMS:mod:normal_end": [
+      "TAG:mod:strong_end"
+    ],
+    "ITEMS:mod:weak_deep": [
+      "TAG:mod:normal_deep"
+    ],
+    "ITEMS:mod:weak_wood": [
+      "TAG:mod:normal_wood"
+    ],
+    "ITEMS:mod:weak_stone": [
+      "TAG:mod:normal_stone"
+    ],
+    "ITEMS:mod:weak_end": [
+      "TAG:mod:normal_end"
+    ],
+    "ITEMS:mod:strong_end": [
+      "TAG:mod:weak_deep"
+    ],
+    "ITEMS:mod:weak_metal": [
+      "TAG:mod:normal_metal"
+    ],
+    "ITEMS:mod:strong_metal": [
+      "TAG:mod:weak_gemstone"
+    ],
+    "ITEMS:mod:normal_nether": [
+      "TAG:mod:strong_nether",
+      "Items.NETHERITE_SWORD",
+      "Items.NETHERITE_SHOVEL",
+      "Items.NETHERITE_PICKAXE",
+      "Items.NETHERITE_AXE",
+      "Items.NETHERITE_HOE"
+    ],
+    "ITEMS:mod:strong_gemstone": [
+      "TAG:mod:weak_nether"
+    ],
+    "ITEMS:mod:normal_gemstone": [
+      "TAG:mod:strong_gemstone",
+      "Items.DIAMOND_SWORD",
+      "Items.DIAMOND_SHOVEL",
+      "Items.DIAMOND_PICKAXE",
+      "Items.DIAMOND_AXE",
+      "Items.DIAMOND_HOE"
+    ],
+    "ITEMS:mod:strong_nether": [
+      "TAG:mod:weak_end"
+    ],
+    "ITEMS:mod:weak_gemstone": [
+      "TAG:mod:normal_gemstone"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mo_tool_tiers",
+    "modName": "Mo Tool Tiers",
+    "version": "1.0.0",
+    "description": "We\u0027ve added support for a multi-tool tier system using Minecraft tags. You’re welcome to make suggestions or provide feedback on our GitHub.",
+    "author": "NorthWestTrees",
+    "websiteURL": "https://github.com/MCreator-Examples/Mo-Tool-Teirs",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "serverSideOnly": false,
+    "updateURL": "https://raw.githubusercontent.com/MCreator-Examples/Mo-Tool-Tiers/refs/heads/main/updates/update.json",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.20.6",
+    "credits": "NeoForge, MCreator",
+    "modElementsPackage": "net.nwtg.motooltiers"
+  },
+  "mcreatorVersion": 202400232117
+}

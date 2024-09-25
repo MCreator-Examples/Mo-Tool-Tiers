@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="mo_tool_tiers"
+version="1.0.0"
+displayName="Mo Tool Tiers"
+updateJSONURL="https://raw.githubusercontent.com/MCreator-Examples/Mo-Tool-Tiers/refs/heads/main/updates/update.json"
+displayURL="https://github.com/MCreator-Examples/Mo-Tool-Teirs"
+credits="NeoForge, MCreator"
+authors="NorthWestTrees"
+description="We've added support for a multi-tool tier system using Minecraft tags. You’re welcome to make suggestions or provide feedback on our GitHub."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.mo_tool_tiers]]
+    modId="neoforge"
+    type="required"
+    versionRange="[20.6.117,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.mo_tool_tiers]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.20.6]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
