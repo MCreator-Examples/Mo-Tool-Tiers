@@ -5,3 +5,8 @@ We've added support for a multi-tool tier system using Minecraft tags. This was 
 You can find the full license on [this page](https://github.com/MCreator-Examples/Mo-Tool-Tiers/blob/main/LICENSE).  
   
 ![image](https://github.com/user-attachments/assets/9d2c5d89-3047-46be-8f59-8caa0e4b5cf8)
+
+## 😺 GitHub Pages
+- 📚 [Read Wiki](https://github.com/MCreator-Examples/Mo-Tool-Tiers/wiki)
+- 🐞 [Report Issue](https://github.com/MCreator-Examples/Mo-Tool-Tiers/issues)
+- 💡 [Suggest Feature](https://github.com/MCreator-Examples/Mo-Tool-Tiers/discussions/categories/suggest-feature)
