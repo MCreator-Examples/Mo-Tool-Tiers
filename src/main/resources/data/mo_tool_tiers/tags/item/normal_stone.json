@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#mo_tool_tiers:strong_stone",
+    "minecraft:stone_sword",
+    "minecraft:stone_shovel",
+    "minecraft:stone_pickaxe",
+    "minecraft:stone_axe",
+    "minecraft:stone_hoe"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#mo_tool_tiers:strong_nether",
+    "minecraft:netherite_sword",
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_pickaxe",
+    "minecraft:netherite_axe",
+    "minecraft:netherite_hoe"
+  ]
+}

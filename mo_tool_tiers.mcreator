@@ -105,7 +105,7 @@
   "workspaceSettings": {
     "modid": "mo_tool_tiers",
     "modName": "Mo Tool Tiers",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "We\u0027ve added support for a multi-tool tier system using Minecraft tags. You’re welcome to make suggestions or provide feedback on our GitHub.",
     "author": "NorthWestTrees",
     "websiteURL": "https://github.com/MCreator-Examples/Mo-Tool-Teirs",
@@ -116,9 +116,9 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "neoforge-1.20.6",
+    "currentGenerator": "neoforge-1.21.1",
     "credits": "NeoForge, MCreator",
     "modElementsPackage": "net.nwtg.motooltiers"
   },
-  "mcreatorVersion": 202400232117
+  "mcreatorVersion": 202400342716
 }

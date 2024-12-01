@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#mo_tool_tiers:strong_gemstone",
+    "minecraft:diamond_sword",
+    "minecraft:diamond_shovel",
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond_axe",
+    "minecraft:diamond_hoe"
+  ]
+}
